@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ThGrillet/react-demo.git/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ThGrillet/react-demo.git/static/js/main.90f91659.chunk.js",
-    "main.js.map": "/ThGrillet/react-demo.git/static/js/main.90f91659.chunk.js.map",
-    "runtime-main.js": "/ThGrillet/react-demo.git/static/js/runtime-main.c2f0a8ce.js",
-    "runtime-main.js.map": "/ThGrillet/react-demo.git/static/js/runtime-main.c2f0a8ce.js.map",
-    "static/js/2.cee23657.chunk.js": "/ThGrillet/react-demo.git/static/js/2.cee23657.chunk.js",
-    "static/js/2.cee23657.chunk.js.map": "/ThGrillet/react-demo.git/static/js/2.cee23657.chunk.js.map",
-    "static/js/3.0453ea4e.chunk.js": "/ThGrillet/react-demo.git/static/js/3.0453ea4e.chunk.js",
-    "static/js/3.0453ea4e.chunk.js.map": "/ThGrillet/react-demo.git/static/js/3.0453ea4e.chunk.js.map",
-    "index.html": "/ThGrillet/react-demo.git/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/ThGrillet/react-demo.git/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.cee23657.chunk.js.LICENSE.txt": "/ThGrillet/react-demo.git/static/js/2.cee23657.chunk.js.LICENSE.txt"
+    "main.css": "/repo_react_demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/repo_react_demo/static/js/main.90f91659.chunk.js",
+    "main.js.map": "/repo_react_demo/static/js/main.90f91659.chunk.js.map",
+    "runtime-main.js": "/repo_react_demo/static/js/runtime-main.3171abd7.js",
+    "runtime-main.js.map": "/repo_react_demo/static/js/runtime-main.3171abd7.js.map",
+    "static/js/2.cee23657.chunk.js": "/repo_react_demo/static/js/2.cee23657.chunk.js",
+    "static/js/2.cee23657.chunk.js.map": "/repo_react_demo/static/js/2.cee23657.chunk.js.map",
+    "static/js/3.0453ea4e.chunk.js": "/repo_react_demo/static/js/3.0453ea4e.chunk.js",
+    "static/js/3.0453ea4e.chunk.js.map": "/repo_react_demo/static/js/3.0453ea4e.chunk.js.map",
+    "index.html": "/repo_react_demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/repo_react_demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cee23657.chunk.js.LICENSE.txt": "/repo_react_demo/static/js/2.cee23657.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2f0a8ce.js",
+    "static/js/runtime-main.3171abd7.js",
     "static/js/2.cee23657.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.90f91659.chunk.js"
